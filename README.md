@@ -4,6 +4,7 @@
 ppt位置为 ./pdf_and_pptx/自动化复现.pptx
 
 视频位置存储在南大共享云盘：https://box.nju.edu.cn/d/8b2540b31951422d8ac2/
+视频也可在bilibili观看：https://www.bilibili.com/video/BV1dR4y1479F/
 ## 数据集
 mnist为目标数据集
 
